@@ -1,5 +1,4 @@
 syntax = "proto3";
-package ServiceA;
 
 import "common_message_types/common_message_types.proto";
 
